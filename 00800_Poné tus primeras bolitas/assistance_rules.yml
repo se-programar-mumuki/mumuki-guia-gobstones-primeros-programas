@@ -1,0 +1,8 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    error_contains: 'Se esperaba un comando pero se encontró un paréntesis izquierdo.
+      Nota: la sintaxis de asignación de tuplas'
+  then: 'Tu código tiene errores de sintaxis, lo que significa que **no está bien
+    escrito**. :mag: Te sugerimos que lo compares con los ejemplos anteriores'
