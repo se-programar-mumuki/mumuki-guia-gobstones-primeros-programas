@@ -1,4 +1,4 @@
-En nuestra vida cotidiana sabemos cómo hacer para comunicarnos con otras personas. Si necesitamos que hagan algo, sabemos que tenemos que pedirles por favor :pray:. También sabemos cómo darle órdenes a nuestras mascotas. Pero… ¿cómo hacemos para darle órdenes a una computadora? :no_mouth:
+En nuestra vida cotidiana sabemos cómo hacer para comunicarnos con otras personas. Si necesitamos que hagan algo, sabemos que tenemos que pedirles por favor :pray:. Las computadoras no nos hacen favores, solo siguen instrucciones. Pero... ¿cómo hacemos para darle órdenes a una computadora? :no_mouth:
 
 Para que la computadora nos entienda, vamos a tener que aprender SU lenguaje :computer:. En realidad, las computadoras entienden más de un lenguaje, muchos de ellos los vamos a aprender a lo largo de este curso.
 
